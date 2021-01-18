@@ -1,2 +1,3 @@
 # hello-world
-Hello-world repo for practice creating a new repo
+Hello-world repo to practice creating and editing a new repo
+My name is William Griffin
